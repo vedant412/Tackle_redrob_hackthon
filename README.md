@@ -41,9 +41,10 @@ Hard Constraint Filtering
         │
         ▼
 Feature Engineering
+(Honeypot detection from feature engineering)
         │
         ▼
-Weighted Ranking
+Weighted Ranking 
         │
         ▼
 Candidate Explanation Generation
